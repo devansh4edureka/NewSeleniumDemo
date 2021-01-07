@@ -25,7 +25,7 @@ chromeOptions.addArguments("--headless");
  System.out.println("Hi, Welcome to Demo for Selenium WebDriver");
 
 
- driver.get("http://13.234.117.6:8888/");
+ driver.get("http://13.234.114.86:8888/");
 
  driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
  driver.findElement(By.className("v-button")).click();
