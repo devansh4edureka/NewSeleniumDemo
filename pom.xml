@@ -102,7 +102,7 @@ implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransfor
              </configuration>
        </execution>
     </executions>
-<plugin>
+</plugin>
 </plugins>
   </build>
 </project>
